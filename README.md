@@ -5,7 +5,7 @@
 > [!CAUTION]
 >To clone the repository and also the submodule run:
 >```
->git clone --recurse-submodules https://github.com/martinalupini/progetto-SOA
+>git clone --recurse-submodules https://github.com/martinalupini/Kernel-Level-Reference-Monitor
 >```
 
 After cloning the repository, open a terminal in the directory Progetto-SOA/. 
