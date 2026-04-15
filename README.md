@@ -42,7 +42,7 @@ make clean
 
 ## Project specification 
 
-The project specification can be found at the link: https://francescoquaglia.github.io/TEACHING/AOS/CURRENT/PROJECTS/project-specification-2023-2024.html
+The project specification can be found at the link: https://francescoquaglia.github.io/TEACHING/AOS/AA-2023-2024/PROJECTS/project-specification-2023-2024.html
 
 
 
